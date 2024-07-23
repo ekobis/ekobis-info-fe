@@ -36,12 +36,14 @@ document.addEventListener("DOMContentLoaded", function() {
             "feature-3": "Aylık Analiz ve Raporlama",
             "feature-4": "Ürün Takibi",
             "team-title": "Ekibimiz",
-            "role-1": "Backend Developer & Proje Yöneticisi",
+            "role-1": "Backend Developer",
             "role-2": "Backend Developer",
             "role-3": "Backend Developer",
             "role-4": "Frontend Developer",
             "role-5": "Backend Developer",
             "role-6": "Backend Developer",
+            "role-7": "Backend Developer",
+            "role-8": "Frontend Developer",
             "footer": "Ekobis © 2024"
         },
         "en": {
@@ -57,12 +59,14 @@ document.addEventListener("DOMContentLoaded", function() {
             "feature-3": "Monthly Analysis and Reporting",
             "feature-4": "Product Tracking",
             "team-title": "Our Team",
-            "role-1": "Backend Developer & Project Manager",
+            "role-1": "Backend Developer",
             "role-2": "Backend Developer",
             "role-3": "Backend Developer",
             "role-4": "Frontend Developer",
             "role-5": "Backend Developer",
             "role-6": "Backend Developer",
+            "role-7": "Backend Developer",
+            "role-8": "Frontend Developer",
             "footer": "Ekobis © 2024"
         },
         "de": {
@@ -78,12 +82,14 @@ document.addEventListener("DOMContentLoaded", function() {
             "feature-3": "Monatliche Analyse und Berichterstattung",
             "feature-4": "Produktverfolgung",
             "team-title": "Unser Team",
-            "role-1": "Backend-Entwickler & Projektmanager",
+            "role-1": "Backend-Entwickler",
             "role-2": "Backend-Entwickler",
             "role-3": "Backend-Entwickler",
             "role-4": "Frontend-Entwickler",
             "role-5": "Backend-Entwickler",
             "role-6": "Backend-Entwickler",
+            "role-7": "Backend-Entwickler",
+            "role-8": "Frontend-Entwickler",
             "footer": "Ekobis © 2024"
         },
         "ar": {
@@ -105,6 +111,8 @@ document.addEventListener("DOMContentLoaded", function() {
             "role-4": "مطور واجهة أمامية",
             "role-5": "مطور خلفي",
             "role-6": "مطور خلفي",
+            "role-7": "مطور خلفي",
+            "role-8": "مطور واجهة أمامية",
             "footer": "إكوبس © 2024"
         }
     };
